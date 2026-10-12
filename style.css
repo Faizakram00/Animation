@@ -51,30 +51,7 @@ h1::before{
     color: darkred;
     font-size: 25px;
 }
-button{
-    padding: 10px 30px;
-    /* margin-top: 15px; */
-    border-radius: 5px;
-    background-color: transparent;
-    border: 5px solid darkturquoise;
-     /* position: relative; */
-     margin: 50px;
-    
-}
-span{
-   font-size: 25px;
-   font-weight: 600;
-   background-color: transparent;
-}
-span::after{
-    content: "";
-    height: 100%;
-    width: 100%;
-    background-color: red;
-}
-span:hover::after{
 
-}
 
 nav{
   width: 100%;
